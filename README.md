@@ -1,0 +1,2 @@
+# KSS
+Electron RSS reader
